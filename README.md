@@ -1,4 +1,4 @@
-# Fastcampus 의 강좌를 따라 하였습니다.
+# Fast Campus 의 CSS 강좌를 따라서 공부하였습니다.
 
 주요 css를 학습이후 GitHub만들기를 따라합니다.
 
